@@ -4,12 +4,8 @@ title: "sphr2k.ga"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "sphr2k"
+  github: "sphr2k"
 taxonomies:
   author: authors
 theme: novela
